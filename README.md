@@ -79,9 +79,3 @@
 Постройте визуализации. Попробуйте дать рекомендацию для открытия нового заведения. Это творческое задание: здесь нет правильного или неправильного ответа, но ваше решение должно быть чем-то обосновано. Объяснить свою рекомендацию можно текстом с описанием или маркерами на географической карте.
 
 
-from sklearn.impute import KNNImputer
-from plotly import graph_objects as go
-from folium import Map, Choropleth
-from folium import Map, Marker # импортируем карту и маркер
-from folium.plugins import MarkerCluster # импортируем кластер
-from folium import Map, Choropleth # импортируем карту и хороплет
